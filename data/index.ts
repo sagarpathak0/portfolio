@@ -85,7 +85,7 @@ export const navItems = [
       des: "Made a website for the gaming society using react",
       img: "/p1.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "https://trytry-6trm.onrender.com",
+      link: "https://9mm.vercel.app",
     },
     {
       id: 2,
@@ -93,7 +93,7 @@ export const navItems = [
       des: "Made a website for the gaming society using react",
       img: "/p2.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      link: "https://trytry-6trm.onrender.com",
+      link: "https://9mm.vercel.app",
     },
     {
       id: 3,
@@ -101,7 +101,7 @@ export const navItems = [
       des: "Made a website for the gaming society using react",
       img: "/p3.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-      link: "https://trytry-6trm.onrender.com",
+      link: "https://9mm.vercel.app",
     },
     {
       id: 4,
@@ -109,7 +109,7 @@ export const navItems = [
       des: "Made a website for the gaming society using react",
       img: "/p4.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      link: "https://9mm.vercel.app.com",
+      link: "https://9mm.vercel.app",
     },
   ];
   
