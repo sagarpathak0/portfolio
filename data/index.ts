@@ -109,7 +109,7 @@ export const navItems = [
       des: "Made a website for the gaming society using react",
       img: "/p4.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      link: "https://trytry-6trm.onrender.com",
+      link: "https://9mm.vercel.app.com",
     },
   ];
   
